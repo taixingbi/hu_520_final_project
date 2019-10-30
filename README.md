@@ -12,9 +12,11 @@ The labeled data set consists of 50,000 IMDB movie reviews, specially selected f
 https://github.com/mmihaltz/word2vec-GoogleNews-vectors
 
 # peference
-[1] [Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)       
-[2] [Fine-Grained Sentiment Analysis on Financial Microblogs and News](http://www.aclweb.org/anthology/S17-2089)          
-[3] [Sentiment Analysis on Financial Data Using Neural Networks](http://www.aclweb.org/anthology/S17-2150)             
-[4] [Inferring Sentiment towards Brands from Financial News Headlines](http://www.aclweb.org/anthology/S17-2138)            
-[5] [Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)     
+[1] https://realpython.com/python-keras-text-classification/
+[2] https://www.liip.ch/en/blog/sentiment-detection-with-keras-word-embeddings-and-lstm-deep-learning-networks
+[2] [Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)       
+[3] [Fine-Grained Sentiment Analysis on Financial Microblogs and News](http://www.aclweb.org/anthology/S17-2089)          
+[4] [Sentiment Analysis on Financial Data Using Neural Networks](http://www.aclweb.org/anthology/S17-2150)             
+[5] [Inferring Sentiment towards Brands from Financial News Headlines](http://www.aclweb.org/anthology/S17-2138)            
+[6] [Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)     
 
